@@ -90,6 +90,18 @@ p {
   text-align: justify;
 }
 
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
 /* ==== GRID SYSTEM ==== */
 
 .container {
